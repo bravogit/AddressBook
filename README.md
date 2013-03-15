@@ -1,3 +1,3 @@
 AddressBook
 ===========
-![My image](Screenshot.png)
+![My image](Screenshot.PNG)
