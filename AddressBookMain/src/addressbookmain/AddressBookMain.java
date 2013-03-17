@@ -11,9 +11,8 @@ public class AddressBookMain {
 
     public static void main(String[] args) {
         AddressBook ab = new AddressBook();
-        ab.addPerson(new Person("Eddy", "Rubi", "Via mia.", 8850));
-        ab.addPerson(new Person("Giacomo", "Francia", "Via sua.", 8856));
-        ab.updatePerson(new Person("Giacomo", "Rubi", "Via d'egli.", 8856));
+        ab.addPerson(new Person("Barack", "Obama", "The White House", 8850));
+        ab.addPerson(new Person("Homer", "Simpson", "Springfield", 8856));
         ab.print();
     }
 }
